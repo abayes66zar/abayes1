@@ -13,41 +13,43 @@ from googletrans import Translator
 import youtube_dl
 
 cl = LineClient()
-#cl = LineClient(authToken='YOUR TOKEN')
-cl.log("Auth Token : " + str(cl.authToken))
-channel = LineChannel(cl)
+cl = LineClient(authToken='Ezxcnhckn ++stre getmid')
+cl.log("Auoth Token : " + str(cl.auothToken))
+#channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
 
 ki = LineClient()
-#ki = LineClient(authToken='YOUR TOKEN')
-ki.log("Auth Token : " + str(ki.authToken))
-channel1 = LineChannel(ki)
+ki = LineClient(authToken='Efdvjlnvxghxxjkknnngduvc// streg++/**')
+ki.log("Auoth Token : " + str(ki.auothToken))
+#channel1 = LineChannel(ki)
 ki.log("Channel Access Token : " + str(channel1.channelAccessToken))
 
 kk = LineClient()
-#kk = LineClient(authToken='YOUR TOKEN')
-kk.log("Auth Token : " + str(kk.authToken))
-channel2 = LineChannel(kk)
+kk = LineClient(authToken='Easdfcvbnkhfsdh ++ stre get pro')
+kk.log("Auoth Token : " + str(kk.auothToken))
+#channel2 = LineChannel(kk)
 kk.log("Channel Access Token : " + str(channel2.channelAccessToken))
 
 kc = LineClient()
-#kc = LineClient(authToken='YOUR TOKEN')
-kc.log("Auth Token : " + str(kc.authToken))
-channel3 = LineChannel(kc)
+kc = LineClient(authToken='Ewqasdgklbchj ++stre get Profile id')
+kc.log("Auoth Token : " + str(kc.auothToken))
+#channel3 = LineChannel(kc)
 kc.log("Channel Access Token : " + str(channel3.channelAccessToken))
 poll = LinePoll(cl)
 call = cl
-creator = ["ud296655acef67cbd5e8208e63629f78b"]
-owner = ["ud296655acef67cbd5e8208e63629f78b"]
-admin = ["ud296655acef67cbd5e8208e63629f78b"]
-staff = ["ud296655acef67cbd5e8208e63629f78b"]
+creator 'bot' = ["ud296655acef67cbd5e8208e63629f78b"]
+owner 'Sc' = ["ud296655acef67cbd5e8208e63629f78b"]
+admin 'self' = ["ud296655acef67cbd5e8208e63629f78b"]
+staff 'midbot'= ["ud296655acef67cbd5e8208e63629f78b"]
 myMid = cl.profile.mid
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
-KAC = [cl,ki,kk,kc]
-ABC = [ki,kk,kc]
+Dmid1 = dc1.gerprofaile(ٖ).mid
+Dmid2E = dce2.getprofaile().mid
+KAC = [cl,ki,kk,kc,dc1,dce2.,,,,]
+ABC = [ki,kk,kc,,,,.]
 Bots = [mid,Amid,Bmid,Cmid]
 Team = admin + staff
 
