@@ -1,18 +1,20 @@
-# UPDATE TANGGAL 28 OCT 2018
+## Setup 1 Dont forget Like + Comment in [HERE](line.me/ti/p/fDkawyMoqD)
+## AND _@sallakhsystem [→](https://github.com/sallakhsystem)
+# UPDATE 28 OCT 2018
 ------
-GET TOKEN :
+## GET TOKEN : [HERE](https://line.me/ti/p/fDkawyMoqD) :>)
 ------
 - IOSPAD(304)
 - 8.14.2
-- https://github.com/sallakhsystem/SKTokenpy
-- & https://github.com/Aditmadzs/Tokenpy
-Cara Install Bot :
+- https://line.me/R/ti/p/%40xaw1206q
+- & https://github.com/Aditmadzs/sk-T6
+Lets Go For Install Bot :
 ------
 INSTAll FOR vultr & other vps
-- git clone https://github.com/sallakhsystem/2019
-- cd 2019
-- nano prosb.py for edit Mid ( Admin & owner &Etc )
-- python3 prosb.py
+- git clone https://github.com/sallakhsystem/sallakh44
+- cd sallakh44
+- nano sallakh44.py
+- python3 sallakh44.py
 - Login 4 qr with 4 accounts .
 FINISH YOUR BOT RUN IT. 
 Di C9 SERVER/ FREE VPS app [ apk ] :
@@ -32,11 +34,11 @@ Di C9 SERVER/ FREE VPS app [ apk ] :
 - sudo pip3 install wikipedia
 - sudo pip3 install tweepy
 - sudo pip3 install youtube_dl
-- git clone https://github.com/sallakhsystem/2019`
-- cd 2019
-- python prosb.py
+- git clone https://github.com/sallakhsystem/sallakh44`
+- cd sallakh44
+- python sallakh44.py
 
-INSTALL Di TERMUX :
+INSTALL Di TERMUX & NEW Codeany & Google programer Rent or buy:
 - pkg update
 - pkg install git
 - pkg install python3-pip
@@ -53,24 +55,25 @@ INSTALL Di TERMUX :
 - pip3 install wikipedia
 - pip3 install youtube_dl
 - pip3 install tweepy
-- git clone https://github.com/sallakhsystem/2019
-- cd 2019
-- python3 prosb.py
+- git clone https://github.com/sallakhsystem/sallakh44
+- cd sallakh44
+- python3 sallakh44.py
 
 Cara Menjalankan Bot Kembali :
+How to Run a Bot Again :)
 ------
 Di C9 :
-- cd 2019
-- python3 prosb.py
+- cd sallakh44
+- python3 sallakh44.py
 
 Di Termux :
-- cd 2019
-- python3 prosb.py
+- cd sallakh44
+- python3 sallakh44.py
 
 
 EDITOR BY ABBAS SALLAKH
 ------
-- Add My LINE : https://line.me/ti/p/fDkawyMoqD
+## CONTACT ME [HERE](line.me/ti/p/fDkawyMoqD)
 
 Thx To :
 ------
