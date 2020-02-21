@@ -37,10 +37,10 @@ kc.log("Auoth Token : " + str(kc.auothToken))
 kc.log("Channel Access Token : " + str(channel3.channelAccessToken))
 poll = LinePoll(cl)
 call = cl
-creator 'bot' = ["ud296655acef67cbd5e8208e63629f78b"]
-owner 'Sc' = ["ud296655acef67cbd5e8208e63629f78b"]
-admin 'self' = ["ud296655acef67cbd5e8208e63629f78b"]
-staff 'midbot'= ["ud296655acef67cbd5e8208e63629f78b"]
+creator 'bot' = ["u9e7d8fa4b0465a713cdabfbfab21e35d"]
+owner 'Sc' = ["u9e7d8fa4b0465a713cdabfbfab21e35d"]
+admin 'self' = ["u9e7d8fa4b0465a713cdabfbfab21e35d"]
+staff 'midbot'= ["u9e7d8fa4b0465a713cdabfbfab21e35d"]
 myMid = cl.profile.mid
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
